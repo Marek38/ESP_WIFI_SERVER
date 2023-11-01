@@ -1,0 +1,11 @@
+{
+"C_Cpp.intelliSenseEngine": "Tag Parser",
+"files.associations": {
+    "esp_event.h": "c",
+    "tcp_client.h": "c",
+    "unistd.h": "c",
+    "stdbool.h": "c"
+},
+"idf.portWin": "COM5",
+"idf.flashType": "UART"
+}
